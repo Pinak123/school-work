@@ -7,6 +7,9 @@
 # last_name=full_name[2]
 # myname =fulln.format(first_name,middle_name,last_name)
 # #pinak sandip sarode
-import fun
-pin=fun.pinak(10)
-print(pin)
+# import fun
+from random import *
+# pin=fun.pinak(10)
+# print(pin)
+x=randint(1,13)
+print(x)
