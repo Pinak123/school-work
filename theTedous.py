@@ -92,7 +92,7 @@ def tedious(elements):
                     else:pass
                 print(final[:-5])
 
-
+# Sample input down here.
 # fire=['S;V;iPad','C;M;mouse pad','C;C;code swarm','S;C;OrangeHighlighter'] 
                      
 
